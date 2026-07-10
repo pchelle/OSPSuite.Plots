@@ -14,7 +14,7 @@ geom_errorbar_osp(
   width = 2,
   lineend = "butt",
   na.rm = FALSE,
-  show.legend = NA,
+  show.legend = FALSE,
   inherit.aes = TRUE
 )
 }
